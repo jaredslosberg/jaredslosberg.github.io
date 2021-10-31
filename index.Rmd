@@ -1,6 +1,6 @@
 ---
-title: "Sigríður Björndotter"
-image: "sigridur.jpg"
+title: "Jared Slosberg"
+image: "jared.jpg"
 links:
   - label: Resume
     url: "https://linkedin.com/"
