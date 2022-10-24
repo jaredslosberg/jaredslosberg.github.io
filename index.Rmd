@@ -21,7 +21,6 @@ I'm a fourth year PhD Candidate in the Department of Genetic Medicine at Johns H
 I use (mostly) transcriptomic data to study age- and disease- associated changes in the enteric nervous
 system. I'm passionate about open science and promoting reproducible computational research.
 
-
 ## Education
 2019 B.S. in Biomedical Engineering, George Washington University
 
