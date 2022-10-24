@@ -11,14 +11,19 @@ links:
  
 output:
   postcards::solana
--
- 
-## Bio
+---
 
+Check out my contributions to our [recent preprint](https://www.biorxiv.org/content/10.1101/2020.08.25.262832v1.full), where we identified and
+characterized a mesoderm-derived population of ganglionic cells that contribute to the enteric nervous system!
+
+## Bio
+I'm a fourth year PhD Candidate in the Department of Genetic Medicine at Johns Hopkins. 
+I use (mostly) transcriptomic data to study age- and disease- associated changes in the enteric nervous
+system. I'm passionate about open science and promoting reproducible computational research.
 
 
 ## Education
+2019 B.S. in Biomedical Engineering, George Washington University
 
-
-## Experience
+2019-current PhD Candidate in Human Genetics- Advisor: Loyal Goff
 
