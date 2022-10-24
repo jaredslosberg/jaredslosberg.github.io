@@ -6,9 +6,12 @@ links:
     url: "https://jaredslosberg.github.io/cv/Slosberg_CV.pdf"
   - label: Twitter
     url: "https://twitter.com/jared_slosberg"
+  - label: ASHG 2022 - Poster
+    url: "https://jaredslosberg.github.io/docs/ASHG_Poster_Final.pdf"
+ 
 output:
   postcards::solana
----
+-
  
 ## Bio
 
